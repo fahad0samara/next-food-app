@@ -47,7 +47,7 @@ const Featured = () => {
             <Dash />
             <h2 className="font-medium text-xl">Baked Apples</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-              Indulge in the warmth and sweetness of our baked apples. Served with a sprinkle of cinnamon and a dollop of whipped cream, it's a perfect dessert for any occasion.
+              Indulge in the warmth and sweetness of our baked apples. Served with a sprinkle of cinnamon and a dollop of whipped cream, it&apos;s a perfect dessert for any occasion.
             </p>
           </div>
         </div>
@@ -64,7 +64,7 @@ const Featured = () => {
             <Dash />
             <h2 className="font-medium text-xl">Cherries Chicken</h2>
             <p className="text-gray-700 text-[14px] xl:text-[16px]">
-              Experience the perfect blend of savory and sweet with our cherries chicken. Tender chicken breast served with a rich cherry sauce, it's a flavor explosion you won't forget.
+              Experience the perfect blend of savory and sweet with our cherries chicken. Tender chicken breast served with a rich cherry sauce, it&apos;s a flavor explosion you won&apos;t forget.
             </p>
           </div>
         </div>
