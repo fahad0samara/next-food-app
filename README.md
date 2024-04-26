@@ -2,6 +2,8 @@
 # Next.js Food App
 
 Welcome to our Next.js Food App! This is a sample food app built with Next.js, React, and Tailwind CSS. It features a modern and responsive design, showcasing various food-related components such as menus, featured dishes, services, and a survey section.
+![Copy of Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post (1)](https://github.com/fahad0samara/next-food-app/assets/90055525/1ff029ef-70d5-41b8-9350-0b0ecad733e5)
+
 
 ## Features
 
